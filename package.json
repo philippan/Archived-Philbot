@@ -1,0 +1,24 @@
+{
+  "name": "philbot",
+  "version": "1.0.0",
+  "description": "A philosophy bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/philippan/philbot.git"
+  },
+  "keywords": [
+    "philosophy",
+    "bot"
+  ],
+  "author": "Philip Pan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philippan/philbot/issues"
+  },
+  "homepage": "https://github.com/philippan/philbot#readme"
+}
